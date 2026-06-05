@@ -3,7 +3,7 @@ window.CARD_DATA = [
     "id": "读题卡-1",
     "group": "读题卡",
     "title": "位移的定义｜L1速判",
-    "image": "../图片/FIG-G02.png",
+    "image": "../图片/FIG-H01.png",
     "imageAlt": "位移的定义",
     "sections": [
       {
@@ -40,8 +40,8 @@ window.CARD_DATA = [
     "id": "读题卡-2",
     "group": "读题卡",
     "title": "时间｜L1速判",
-    "image": "../图片/FIG-G01.png",
-    "imageAlt": "时间",
+    "image": null,
+    "imageAlt": "时间｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -77,8 +77,8 @@ window.CARD_DATA = [
     "id": "读题卡-3",
     "group": "读题卡",
     "title": "重力的概念｜L1速判",
-    "image": "../图片/FIG-G02.png",
-    "imageAlt": "重力的概念",
+    "image": null,
+    "imageAlt": "重力的概念｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -114,7 +114,7 @@ window.CARD_DATA = [
     "id": "读题卡-4",
     "group": "读题卡",
     "title": "利用平衡推论求力大小或方向｜L1速判",
-    "image": "../图片/FIG-G01.png",
+    "image": "../图片/FIG-B01.png",
     "imageAlt": "利用平衡推论求力大小或方向",
     "sections": [
       {
@@ -151,8 +151,8 @@ window.CARD_DATA = [
     "id": "读题卡-5",
     "group": "读题卡",
     "title": "基本单位｜L1速判",
-    "image": "../图片/FIG-G02.png",
-    "imageAlt": "基本单位",
+    "image": null,
+    "imageAlt": "基本单位｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -188,8 +188,8 @@ window.CARD_DATA = [
     "id": "读题卡-6",
     "group": "读题卡",
     "title": "基本单位｜L1速判",
-    "image": "../图片/FIG-G01.png",
-    "imageAlt": "基本单位",
+    "image": null,
+    "imageAlt": "基本单位｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -225,7 +225,7 @@ window.CARD_DATA = [
     "id": "读题卡-7",
     "group": "读题卡",
     "title": "超重和失重的概念｜L1速判",
-    "image": "../图片/FIG-H02.png",
+    "image": "../图片/FIG-A01.png",
     "imageAlt": "超重和失重的概念",
     "sections": [
       {
@@ -262,8 +262,8 @@ window.CARD_DATA = [
     "id": "读题卡-8",
     "group": "读题卡",
     "title": "合运动与分运动的概念及关系｜L1速判",
-    "image": "../图片/FIG-G02.png",
-    "imageAlt": "合运动与分运动的概念及关系",
+    "image": null,
+    "imageAlt": "合运动与分运动的概念及关系｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -299,7 +299,7 @@ window.CARD_DATA = [
     "id": "读题卡-9",
     "group": "读题卡",
     "title": "平抛运动的概念｜L1速判",
-    "image": "../图片/FIG-G01.png",
+    "image": "../图片/FIG-A02.png",
     "imageAlt": "平抛运动的概念",
     "sections": [
       {
@@ -336,7 +336,7 @@ window.CARD_DATA = [
     "id": "读题卡-10",
     "group": "读题卡",
     "title": "向心力的定义及特征｜L1速判",
-    "image": "../图片/FIG-G02.png",
+    "image": "../图片/FIG-B02.png",
     "imageAlt": "向心力的定义及特征",
     "sections": [
       {
@@ -373,8 +373,8 @@ window.CARD_DATA = [
     "id": "读题卡-11",
     "group": "读题卡",
     "title": "向心力的定义及特征｜L1速判",
-    "image": "../图片/FIG-G01.png",
-    "imageAlt": "向心力的定义及特征",
+    "image": null,
+    "imageAlt": "向心力的定义及特征｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -410,7 +410,7 @@ window.CARD_DATA = [
     "id": "读题卡-12",
     "group": "读题卡",
     "title": "向心加速度的概念｜L1速判",
-    "image": "../图片/FIG-H02.png",
+    "image": "../图片/FIG-B03.png",
     "imageAlt": "向心加速度的概念",
     "sections": [
       {
@@ -447,7 +447,7 @@ window.CARD_DATA = [
     "id": "读题卡-13",
     "group": "读题卡",
     "title": "功的定义（式）｜L1速判",
-    "image": "../图片/FIG-G02.png",
+    "image": "../图片/FIG-B04.png",
     "imageAlt": "功的定义（式）",
     "sections": [
       {
@@ -484,8 +484,8 @@ window.CARD_DATA = [
     "id": "读题卡-14",
     "group": "读题卡",
     "title": "动能｜L1速判",
-    "image": "../图片/FIG-G01.png",
-    "imageAlt": "动能",
+    "image": null,
+    "imageAlt": "动能｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -521,7 +521,7 @@ window.CARD_DATA = [
     "id": "读题卡-15",
     "group": "读题卡",
     "title": "动能｜L1速判",
-    "image": "../图片/FIG-H02.png",
+    "image": "../图片/FIG-B05.png",
     "imageAlt": "动能",
     "sections": [
       {
@@ -632,8 +632,8 @@ window.CARD_DATA = [
     "id": "读题卡-18",
     "group": "读题卡",
     "title": "电场的概念｜L1速判",
-    "image": "../图片/FIG-G02.png",
-    "imageAlt": "电场的概念",
+    "image": null,
+    "imageAlt": "电场的概念｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -854,8 +854,8 @@ window.CARD_DATA = [
     "id": "读题卡-24",
     "group": "读题卡",
     "title": "基本单位｜L1速判",
-    "image": "../图片/FIG-G02.png",
-    "imageAlt": "基本单位",
+    "image": null,
+    "imageAlt": "基本单位｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -891,8 +891,8 @@ window.CARD_DATA = [
     "id": "读题卡-25",
     "group": "读题卡",
     "title": "电流强度的定义及单位｜L1速判",
-    "image": "../图片/FIG-G01.png",
-    "imageAlt": "电流强度的定义及单位",
+    "image": null,
+    "imageAlt": "电流强度的定义及单位｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -928,8 +928,8 @@ window.CARD_DATA = [
     "id": "读题卡-26",
     "group": "读题卡",
     "title": "电流强度的定义及单位｜L1速判",
-    "image": "../图片/FIG-H02.png",
-    "imageAlt": "电流强度的定义及单位",
+    "image": null,
+    "imageAlt": "电流强度的定义及单位｜L1速判",
     "sections": [
       {
         "label": "原题",
@@ -1224,8 +1224,8 @@ window.CARD_DATA = [
     "id": "读题卡-34",
     "group": "读题卡",
     "title": "电荷守恒定律｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "电荷守恒定律",
+    "image": null,
+    "imageAlt": "电荷守恒定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1261,7 +1261,7 @@ window.CARD_DATA = [
     "id": "读题卡-35",
     "group": "读题卡",
     "title": "速率与速度｜L2代入",
-    "image": "../图片/FIG-G05.png",
+    "image": "../图片/FIG-H03.png",
     "imageAlt": "速率与速度",
     "sections": [
       {
@@ -1298,7 +1298,7 @@ window.CARD_DATA = [
     "id": "读题卡-36",
     "group": "读题卡",
     "title": "标量与矢量｜L2代入",
-    "image": "../图片/FIG-E01.png",
+    "image": "../图片/FIG-H04.png",
     "imageAlt": "标量与矢量",
     "sections": [
       {
@@ -1335,8 +1335,8 @@ window.CARD_DATA = [
     "id": "读题卡-37",
     "group": "读题卡",
     "title": "路程和位移的计算｜L2代入",
-    "image": "../图片/FIG-G06.png",
-    "imageAlt": "路程和位移的计算",
+    "image": null,
+    "imageAlt": "路程和位移的计算｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1372,8 +1372,8 @@ window.CARD_DATA = [
     "id": "读题卡-38",
     "group": "读题卡",
     "title": "加速度的计算｜L2代入",
-    "image": "../图片/FIG-C02.png",
-    "imageAlt": "加速度的计算",
+    "image": null,
+    "imageAlt": "加速度的计算｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1409,7 +1409,7 @@ window.CARD_DATA = [
     "id": "读题卡-39",
     "group": "读题卡",
     "title": "自由落体运动的特征｜L2代入",
-    "image": "../图片/FIG-G07.png",
+    "image": "../图片/FIG-H05.png",
     "imageAlt": "自由落体运动的特征",
     "sections": [
       {
@@ -1446,7 +1446,7 @@ window.CARD_DATA = [
     "id": "读题卡-40",
     "group": "读题卡",
     "title": "自由落体运动的规律及应用｜L2代入",
-    "image": "../图片/FIG-G08.png",
+    "image": "../图片/FIG-H06.png",
     "imageAlt": "自由落体运动的规律及应用",
     "sections": [
       {
@@ -1483,8 +1483,8 @@ window.CARD_DATA = [
     "id": "读题卡-41",
     "group": "读题卡",
     "title": "胡克定律｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "胡克定律",
+    "image": null,
+    "imageAlt": "胡克定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1520,8 +1520,8 @@ window.CARD_DATA = [
     "id": "读题卡-42",
     "group": "读题卡",
     "title": "胡克定律｜L2代入",
-    "image": "../图片/FIG-G05.png",
-    "imageAlt": "胡克定律",
+    "image": null,
+    "imageAlt": "胡克定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1557,8 +1557,8 @@ window.CARD_DATA = [
     "id": "读题卡-43",
     "group": "读题卡",
     "title": "合力的取值范围｜L2代入",
-    "image": "../图片/FIG-E01.png",
-    "imageAlt": "合力的取值范围",
+    "image": null,
+    "imageAlt": "合力的取值范围｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1594,7 +1594,7 @@ window.CARD_DATA = [
     "id": "读题卡-44",
     "group": "读题卡",
     "title": "等大力的模型｜L2代入",
-    "image": "../图片/FIG-G06.png",
+    "image": "../图片/FIG-H07.png",
     "imageAlt": "等大力的模型",
     "sections": [
       {
@@ -1631,7 +1631,7 @@ window.CARD_DATA = [
     "id": "读题卡-45",
     "group": "读题卡",
     "title": "正交分解法解共点力平衡问题｜L2代入",
-    "image": "../图片/FIG-C02.png",
+    "image": "../图片/FIG-H08.png",
     "imageAlt": "正交分解法解共点力平衡问题",
     "sections": [
       {
@@ -1668,8 +1668,8 @@ window.CARD_DATA = [
     "id": "读题卡-46",
     "group": "读题卡",
     "title": "牛顿第三定律｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "牛顿第三定律",
+    "image": null,
+    "imageAlt": "牛顿第三定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1705,7 +1705,7 @@ window.CARD_DATA = [
     "id": "读题卡-47",
     "group": "读题卡",
     "title": "牛顿第三定律｜L2代入",
-    "image": "../图片/FIG-G05.png",
+    "image": "../图片/FIG-B06.png",
     "imageAlt": "牛顿第三定律",
     "sections": [
       {
@@ -1742,8 +1742,8 @@ window.CARD_DATA = [
     "id": "读题卡-48",
     "group": "读题卡",
     "title": "牛顿第二定律的初步应用｜L2代入",
-    "image": "../图片/FIG-E01.png",
-    "imageAlt": "牛顿第二定律的初步应用",
+    "image": null,
+    "imageAlt": "牛顿第二定律的初步应用｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1779,8 +1779,8 @@ window.CARD_DATA = [
     "id": "读题卡-49",
     "group": "读题卡",
     "title": "牛顿第二定律的初步应用｜L2代入",
-    "image": "../图片/FIG-G06.png",
-    "imageAlt": "牛顿第二定律的初步应用",
+    "image": null,
+    "imageAlt": "牛顿第二定律的初步应用｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1816,7 +1816,7 @@ window.CARD_DATA = [
     "id": "读题卡-50",
     "group": "读题卡",
     "title": "已知受力求运动｜L2代入",
-    "image": "../图片/FIG-C02.png",
+    "image": "../图片/FIG-B07.png",
     "imageAlt": "已知受力求运动",
     "sections": [
       {
@@ -1853,7 +1853,7 @@ window.CARD_DATA = [
     "id": "读题卡-51",
     "group": "读题卡",
     "title": "已知受力求运动｜L2代入",
-    "image": "../图片/FIG-G07.png",
+    "image": "../图片/FIG-B08.png",
     "imageAlt": "已知受力求运动",
     "sections": [
       {
@@ -1890,8 +1890,8 @@ window.CARD_DATA = [
     "id": "读题卡-52",
     "group": "读题卡",
     "title": "物体做曲线运动的条件｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "物体做曲线运动的条件",
+    "image": null,
+    "imageAlt": "物体做曲线运动的条件｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -1927,7 +1927,7 @@ window.CARD_DATA = [
     "id": "读题卡-53",
     "group": "读题卡",
     "title": "过河时间最短问题｜L2代入",
-    "image": "../图片/FIG-G05.png",
+    "image": "../图片/FIG-H09.png",
     "imageAlt": "过河时间最短问题",
     "sections": [
       {
@@ -1964,7 +1964,7 @@ window.CARD_DATA = [
     "id": "读题卡-54",
     "group": "读题卡",
     "title": "平抛运动位移的计算｜L2代入",
-    "image": "../图片/FIG-E01.png",
+    "image": "../图片/FIG-A03.png",
     "imageAlt": "平抛运动位移的计算",
     "sections": [
       {
@@ -2001,7 +2001,7 @@ window.CARD_DATA = [
     "id": "读题卡-55",
     "group": "读题卡",
     "title": "平抛运动速度的计算｜L2代入",
-    "image": "../图片/FIG-G06.png",
+    "image": "../图片/FIG-A04.png",
     "imageAlt": "平抛运动速度的计算",
     "sections": [
       {
@@ -2038,7 +2038,7 @@ window.CARD_DATA = [
     "id": "读题卡-56",
     "group": "读题卡",
     "title": "平抛运动位移的计算｜L2代入",
-    "image": "../图片/FIG-C02.png",
+    "image": "../图片/FIG-H10.png",
     "imageAlt": "平抛运动位移的计算",
     "sections": [
       {
@@ -2075,8 +2075,8 @@ window.CARD_DATA = [
     "id": "读题卡-57",
     "group": "读题卡",
     "title": "同轴传动问题｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "同轴传动问题",
+    "image": null,
+    "imageAlt": "同轴传动问题｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2112,7 +2112,7 @@ window.CARD_DATA = [
     "id": "读题卡-58",
     "group": "读题卡",
     "title": "齿轮传动问题｜L2代入",
-    "image": "../图片/FIG-G05.png",
+    "image": "../图片/FIG-A05.png",
     "imageAlt": "齿轮传动问题",
     "sections": [
       {
@@ -2149,7 +2149,7 @@ window.CARD_DATA = [
     "id": "读题卡-59",
     "group": "读题卡",
     "title": "向心力的计算｜L2代入",
-    "image": "../图片/FIG-E01.png",
+    "image": "../图片/FIG-B09.png",
     "imageAlt": "向心力的计算",
     "sections": [
       {
@@ -2186,8 +2186,8 @@ window.CARD_DATA = [
     "id": "读题卡-60",
     "group": "读题卡",
     "title": "汽车/自行车转弯问题｜L2代入",
-    "image": "../图片/FIG-G06.png",
-    "imageAlt": "汽车/自行车转弯问题",
+    "image": null,
+    "imageAlt": "汽车/自行车转弯问题｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2223,8 +2223,8 @@ window.CARD_DATA = [
     "id": "读题卡-61",
     "group": "读题卡",
     "title": "拱桥和凹桥模型｜L2代入",
-    "image": "../图片/FIG-C02.png",
-    "imageAlt": "拱桥和凹桥模型",
+    "image": null,
+    "imageAlt": "拱桥和凹桥模型｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2260,8 +2260,8 @@ window.CARD_DATA = [
     "id": "读题卡-62",
     "group": "读题卡",
     "title": "开普勒第一定律｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "开普勒第一定律",
+    "image": null,
+    "imageAlt": "开普勒第一定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2297,7 +2297,7 @@ window.CARD_DATA = [
     "id": "读题卡-63",
     "group": "读题卡",
     "title": "开普勒第三定律｜L2代入",
-    "image": "../图片/FIG-G05.png",
+    "image": "../图片/FIG-A06.png",
     "imageAlt": "开普勒第三定律",
     "sections": [
       {
@@ -2371,8 +2371,8 @@ window.CARD_DATA = [
     "id": "读题卡-65",
     "group": "读题卡",
     "title": "开普勒第二定律｜L2代入",
-    "image": "../图片/FIG-G06.png",
-    "imageAlt": "开普勒第二定律",
+    "image": null,
+    "imageAlt": "开普勒第二定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2408,7 +2408,7 @@ window.CARD_DATA = [
     "id": "读题卡-66",
     "group": "读题卡",
     "title": "开普勒第二定律｜L2代入",
-    "image": "../图片/FIG-C02.png",
+    "image": "../图片/FIG-E02.png",
     "imageAlt": "开普勒第二定律",
     "sections": [
       {
@@ -2445,8 +2445,8 @@ window.CARD_DATA = [
     "id": "读题卡-67",
     "group": "读题卡",
     "title": "万有引力的计算｜L2代入",
-    "image": "../图片/FIG-G07.png",
-    "imageAlt": "万有引力的计算",
+    "image": null,
+    "imageAlt": "万有引力的计算｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2482,8 +2482,8 @@ window.CARD_DATA = [
     "id": "读题卡-68",
     "group": "读题卡",
     "title": "计算卫星的各个物理量｜L2代入",
-    "image": "../图片/FIG-G08.png",
-    "imageAlt": "计算卫星的各个物理量",
+    "image": null,
+    "imageAlt": "计算卫星的各个物理量｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2519,8 +2519,8 @@ window.CARD_DATA = [
     "id": "读题卡-69",
     "group": "读题卡",
     "title": "重力做功｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "重力做功",
+    "image": null,
+    "imageAlt": "重力做功｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2556,8 +2556,8 @@ window.CARD_DATA = [
     "id": "读题卡-70",
     "group": "读题卡",
     "title": "重力做功｜L2代入",
-    "image": "../图片/FIG-G05.png",
-    "imageAlt": "重力做功",
+    "image": null,
+    "imageAlt": "重力做功｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2593,8 +2593,8 @@ window.CARD_DATA = [
     "id": "读题卡-71",
     "group": "读题卡",
     "title": "平均功率｜L2代入",
-    "image": "../图片/FIG-E01.png",
-    "imageAlt": "平均功率",
+    "image": null,
+    "imageAlt": "平均功率｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2630,8 +2630,8 @@ window.CARD_DATA = [
     "id": "读题卡-72",
     "group": "读题卡",
     "title": "平均功率｜L2代入",
-    "image": "../图片/FIG-G06.png",
-    "imageAlt": "平均功率",
+    "image": null,
+    "imageAlt": "平均功率｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2667,7 +2667,7 @@ window.CARD_DATA = [
     "id": "读题卡-73",
     "group": "读题卡",
     "title": "应用动能定理求变力做功｜L2代入",
-    "image": "../图片/FIG-C02.png",
+    "image": "../图片/FIG-H11.png",
     "imageAlt": "应用动能定理求变力做功",
     "sections": [
       {
@@ -2704,7 +2704,7 @@ window.CARD_DATA = [
     "id": "读题卡-74",
     "group": "读题卡",
     "title": "机械能守恒定律在弹簧类问题中的应用｜L2代入",
-    "image": "../图片/FIG-G07.png",
+    "image": "../图片/FIG-B10.png",
     "imageAlt": "机械能守恒定律在弹簧类问题中的应用",
     "sections": [
       {
@@ -2741,7 +2741,7 @@ window.CARD_DATA = [
     "id": "读题卡-75",
     "group": "读题卡",
     "title": "带电粒子在匀强电场中做类抛体运动的相｜L2代入",
-    "image": "../图片/FIG-C03.png",
+    "image": "../图片/FIG-G03.png",
     "imageAlt": "带电粒子在匀强电场中做类抛体运动的相",
     "sections": [
       {
@@ -2778,8 +2778,8 @@ window.CARD_DATA = [
     "id": "读题卡-76",
     "group": "读题卡",
     "title": "电阻定律｜L2代入",
-    "image": "../图片/FIG-C03.png",
-    "imageAlt": "电阻定律",
+    "image": null,
+    "imageAlt": "电阻定律｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2815,7 +2815,7 @@ window.CARD_DATA = [
     "id": "读题卡-77",
     "group": "读题卡",
     "title": "电阻定律｜L2代入",
-    "image": "../图片/FIG-G05.png",
+    "image": "../图片/FIG-H12.png",
     "imageAlt": "电阻定律",
     "sections": [
       {
@@ -2852,8 +2852,8 @@ window.CARD_DATA = [
     "id": "读题卡-78",
     "group": "读题卡",
     "title": "灵敏电流计改装成电压表｜L2代入",
-    "image": "../图片/FIG-E01.png",
-    "imageAlt": "灵敏电流计改装成电压表",
+    "image": null,
+    "imageAlt": "灵敏电流计改装成电压表｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2889,8 +2889,8 @@ window.CARD_DATA = [
     "id": "读题卡-79",
     "group": "读题卡",
     "title": "电动机工作时的能量转化｜L2代入",
-    "image": "../图片/FIG-G06.png",
-    "imageAlt": "电动机工作时的能量转化",
+    "image": null,
+    "imageAlt": "电动机工作时的能量转化｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -2926,7 +2926,7 @@ window.CARD_DATA = [
     "id": "读题卡-80",
     "group": "读题卡",
     "title": "计算磁通量的大小｜L2代入",
-    "image": "../图片/FIG-C03.png",
+    "image": "../图片/FIG-G04.png",
     "imageAlt": "计算磁通量的大小",
     "sections": [
       {
@@ -3000,8 +3000,8 @@ window.CARD_DATA = [
     "id": "读题卡-82",
     "group": "读题卡",
     "title": "安培力的计算式及初步应用｜L2代入",
-    "image": "../图片/FIG-E01.png",
-    "imageAlt": "安培力的计算式及初步应用",
+    "image": null,
+    "imageAlt": "安培力的计算式及初步应用｜L2代入",
     "sections": [
       {
         "label": "原题",
@@ -3222,7 +3222,7 @@ window.CARD_DATA = [
     "id": "读题卡-88",
     "group": "读题卡",
     "title": "v-t 图像反映的物理量｜L2读图",
-    "image": "../图片/FIG-C04.png",
+    "image": "../图片/FIG-D01.png",
     "imageAlt": "v-t 图像反映的物理量",
     "sections": [
       {
@@ -3407,7 +3407,7 @@ window.CARD_DATA = [
     "id": "读题卡-93",
     "group": "读题卡",
     "title": "弹簧F-x 图像问题｜L2读图",
-    "image": "../图片/FIG-C04.png",
+    "image": "../图片/FIG-B11.png",
     "imageAlt": "弹簧F-x 图像问题",
     "sections": [
       {
@@ -3444,7 +3444,7 @@ window.CARD_DATA = [
     "id": "读题卡-94",
     "group": "读题卡",
     "title": "以恒定加速度启动｜L2读图",
-    "image": "../图片/FIG-C04.png",
+    "image": "../图片/FIG-D05.png",
     "imageAlt": "以恒定加速度启动",
     "sections": [
       {
@@ -3518,8 +3518,8 @@ window.CARD_DATA = [
     "id": "读题卡-96",
     "group": "读题卡",
     "title": "匀变速直线运动速度与位移的关系｜L2推理",
-    "image": "../图片/FIG-G11.png",
-    "imageAlt": "匀变速直线运动速度与位移的关系",
+    "image": null,
+    "imageAlt": "匀变速直线运动速度与位移的关系｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -3555,8 +3555,8 @@ window.CARD_DATA = [
     "id": "读题卡-97",
     "group": "读题卡",
     "title": "匀变速直线运动速度与时间的关系｜L2推理",
-    "image": "../图片/FIG-G12.png",
-    "imageAlt": "匀变速直线运动速度与时间的关系",
+    "image": null,
+    "imageAlt": "匀变速直线运动速度与时间的关系｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -3592,7 +3592,7 @@ window.CARD_DATA = [
     "id": "读题卡-98",
     "group": "读题卡",
     "title": "判断是否存在静摩擦力及其方向｜L2推理",
-    "image": "../图片/FIG-G11.png",
+    "image": "../图片/FIG-B12.png",
     "imageAlt": "判断是否存在静摩擦力及其方向",
     "sections": [
       {
@@ -3629,7 +3629,7 @@ window.CARD_DATA = [
     "id": "读题卡-99",
     "group": "读题卡",
     "title": "滑动摩擦力的大小与方向｜L2推理",
-    "image": "../图片/FIG-G12.png",
+    "image": "../图片/FIG-B13.png",
     "imageAlt": "滑动摩擦力的大小与方向",
     "sections": [
       {
@@ -3666,7 +3666,7 @@ window.CARD_DATA = [
     "id": "读题卡-100",
     "group": "读题卡",
     "title": "利用平衡推论求力大小或方向｜L2推理",
-    "image": "../图片/FIG-B16.png",
+    "image": "../图片/FIG-B14.png",
     "imageAlt": "利用平衡推论求力大小或方向",
     "sections": [
       {
@@ -3703,7 +3703,7 @@ window.CARD_DATA = [
     "id": "读题卡-101",
     "group": "读题卡",
     "title": "曲线运动瞬时速度的方向｜L2推理",
-    "image": "../图片/FIG-G11.png",
+    "image": "../图片/FIG-A07.png",
     "imageAlt": "曲线运动瞬时速度的方向",
     "sections": [
       {
@@ -3740,7 +3740,7 @@ window.CARD_DATA = [
     "id": "读题卡-102",
     "group": "读题卡",
     "title": "物体运动轨迹｜L2推理",
-    "image": "../图片/FIG-G12.png",
+    "image": "../图片/FIG-G09.png",
     "imageAlt": "物体运动轨迹",
     "sections": [
       {
@@ -3777,7 +3777,7 @@ window.CARD_DATA = [
     "id": "读题卡-103",
     "group": "读题卡",
     "title": "物体运动轨迹｜L2推理",
-    "image": "../图片/FIG-B16.png",
+    "image": "../图片/FIG-H14.png",
     "imageAlt": "物体运动轨迹",
     "sections": [
       {
@@ -3814,8 +3814,8 @@ window.CARD_DATA = [
     "id": "读题卡-104",
     "group": "读题卡",
     "title": "线速度与角速度的关系｜L2推理",
-    "image": "../图片/FIG-G11.png",
-    "imageAlt": "线速度与角速度的关系",
+    "image": null,
+    "imageAlt": "线速度与角速度的关系｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -3851,7 +3851,7 @@ window.CARD_DATA = [
     "id": "读题卡-105",
     "group": "读题卡",
     "title": "线速度与角速度的关系｜L2推理",
-    "image": "../图片/FIG-G12.png",
+    "image": "../图片/FIG-A08.png",
     "imageAlt": "线速度与角速度的关系",
     "sections": [
       {
@@ -3888,7 +3888,7 @@ window.CARD_DATA = [
     "id": "读题卡-106",
     "group": "读题卡",
     "title": "线速度与角速度的关系｜L2推理",
-    "image": "../图片/FIG-B16.png",
+    "image": "../图片/FIG-A09.png",
     "imageAlt": "线速度与角速度的关系",
     "sections": [
       {
@@ -3925,7 +3925,7 @@ window.CARD_DATA = [
     "id": "读题卡-107",
     "group": "读题卡",
     "title": "向心加速度与角速度｜L2推理",
-    "image": "../图片/FIG-B17.png",
+    "image": "../图片/FIG-A10.png",
     "imageAlt": "向心加速度与角速度",
     "sections": [
       {
@@ -3962,8 +3962,8 @@ window.CARD_DATA = [
     "id": "读题卡-108",
     "group": "读题卡",
     "title": "比较不同轨道上的卫星物理量｜L2推理",
-    "image": "../图片/FIG-G11.png",
-    "imageAlt": "比较不同轨道上的卫星物理量",
+    "image": null,
+    "imageAlt": "比较不同轨道上的卫星物理量｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -3999,8 +3999,8 @@ window.CARD_DATA = [
     "id": "读题卡-109",
     "group": "读题卡",
     "title": "比较不同轨道上的卫星物理量｜L2推理",
-    "image": "../图片/FIG-G12.png",
-    "imageAlt": "比较不同轨道上的卫星物理量",
+    "image": null,
+    "imageAlt": "比较不同轨道上的卫星物理量｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -4036,7 +4036,7 @@ window.CARD_DATA = [
     "id": "读题卡-110",
     "group": "读题卡",
     "title": "功的正负及判断｜L2推理",
-    "image": "../图片/FIG-G11.png",
+    "image": "../图片/FIG-B15.png",
     "imageAlt": "功的正负及判断",
     "sections": [
       {
@@ -4073,8 +4073,8 @@ window.CARD_DATA = [
     "id": "读题卡-111",
     "group": "读题卡",
     "title": "重力势能的变化和重力做功的关系｜L2推理",
-    "image": "../图片/FIG-G12.png",
-    "imageAlt": "重力势能的变化和重力做功的关系",
+    "image": null,
+    "imageAlt": "重力势能的变化和重力做功的关系｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -4221,7 +4221,7 @@ window.CARD_DATA = [
     "id": "读题卡-115",
     "group": "读题卡",
     "title": "根据电场线的疏密比较电场强弱｜L2推理",
-    "image": "../图片/FIG-G11.png",
+    "image": "../图片/FIG-G10.png",
     "imageAlt": "根据电场线的疏密比较电场强弱",
     "sections": [
       {
@@ -4258,8 +4258,8 @@ window.CARD_DATA = [
     "id": "读题卡-116",
     "group": "读题卡",
     "title": "静电力做功与电势差的关系｜L2推理",
-    "image": "../图片/FIG-G12.png",
-    "imageAlt": "静电力做功与电势差的关系",
+    "image": null,
+    "imageAlt": "静电力做功与电势差的关系｜L2推理",
     "sections": [
       {
         "label": "原题",
@@ -4369,8 +4369,8 @@ window.CARD_DATA = [
     "id": "读题卡-119",
     "group": "读题卡",
     "title": "时间｜L3融合",
-    "image": "../图片/FIG-C07.png",
-    "imageAlt": "时间",
+    "image": null,
+    "imageAlt": "时间｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -4406,7 +4406,7 @@ window.CARD_DATA = [
     "id": "读题卡-120",
     "group": "读题卡",
     "title": "质点｜L3融合",
-    "image": "../图片/FIG-G15.png",
+    "image": "../图片/FIG-A11.png",
     "imageAlt": "质点",
     "sections": [
       {
@@ -4443,7 +4443,7 @@ window.CARD_DATA = [
     "id": "读题卡-121",
     "group": "读题卡",
     "title": "重心｜L3融合",
-    "image": "../图片/FIG-C07.png",
+    "image": "../图片/FIG-H15.png",
     "imageAlt": "重心",
     "sections": [
       {
@@ -4480,8 +4480,8 @@ window.CARD_DATA = [
     "id": "读题卡-122",
     "group": "读题卡",
     "title": "合力的取值范围｜L3融合",
-    "image": "../图片/FIG-G15.png",
-    "imageAlt": "合力的取值范围",
+    "image": null,
+    "imageAlt": "合力的取值范围｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -4517,7 +4517,7 @@ window.CARD_DATA = [
     "id": "读题卡-123",
     "group": "读题卡",
     "title": "整体法与隔离法解决共点力平衡问题｜L3融合",
-    "image": "../图片/FIG-G16.png",
+    "image": "../图片/FIG-B18.png",
     "imageAlt": "整体法与隔离法解决共点力平衡问题",
     "sections": [
       {
@@ -4554,8 +4554,8 @@ window.CARD_DATA = [
     "id": "读题卡-124",
     "group": "读题卡",
     "title": "惯性｜L3融合",
-    "image": "../图片/FIG-C07.png",
-    "imageAlt": "惯性",
+    "image": null,
+    "imageAlt": "惯性｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -4591,7 +4591,7 @@ window.CARD_DATA = [
     "id": "读题卡-125",
     "group": "读题卡",
     "title": "惯性｜L3融合",
-    "image": "../图片/FIG-G15.png",
+    "image": "../图片/FIG-B19.png",
     "imageAlt": "惯性",
     "sections": [
       {
@@ -4628,8 +4628,8 @@ window.CARD_DATA = [
     "id": "读题卡-126",
     "group": "读题卡",
     "title": "惯性｜L3融合",
-    "image": "../图片/FIG-G16.png",
-    "imageAlt": "惯性",
+    "image": null,
+    "imageAlt": "惯性｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -4665,8 +4665,8 @@ window.CARD_DATA = [
     "id": "读题卡-127",
     "group": "读题卡",
     "title": "惯性｜L3融合",
-    "image": "../图片/FIG-G17.png",
-    "imageAlt": "惯性",
+    "image": null,
+    "imageAlt": "惯性｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -4739,7 +4739,7 @@ window.CARD_DATA = [
     "id": "读题卡-129",
     "group": "读题卡",
     "title": "超重和失重现象分析｜L3融合",
-    "image": "../图片/FIG-B23.png",
+    "image": "../图片/FIG-A12.png",
     "imageAlt": "超重和失重现象分析",
     "sections": [
       {
@@ -4776,8 +4776,8 @@ window.CARD_DATA = [
     "id": "读题卡-130",
     "group": "读题卡",
     "title": "物体做曲线运动的条件｜L3融合",
-    "image": "../图片/FIG-C07.png",
-    "imageAlt": "物体做曲线运动的条件",
+    "image": null,
+    "imageAlt": "物体做曲线运动的条件｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -4813,7 +4813,7 @@ window.CARD_DATA = [
     "id": "读题卡-131",
     "group": "读题卡",
     "title": "绳连接关联速度问题｜L3融合",
-    "image": "../图片/FIG-G15.png",
+    "image": "../图片/FIG-H16.png",
     "imageAlt": "绳连接关联速度问题",
     "sections": [
       {
@@ -4850,7 +4850,7 @@ window.CARD_DATA = [
     "id": "读题卡-132",
     "group": "读题卡",
     "title": "一个匀速和一个变速运动的合成｜L3融合",
-    "image": "../图片/FIG-G16.png",
+    "image": "../图片/FIG-A13.png",
     "imageAlt": "一个匀速和一个变速运动的合成",
     "sections": [
       {
@@ -4887,7 +4887,7 @@ window.CARD_DATA = [
     "id": "读题卡-133",
     "group": "读题卡",
     "title": "向心力的来源｜L3融合",
-    "image": "../图片/FIG-C07.png",
+    "image": "../图片/FIG-B20.png",
     "imageAlt": "向心力的来源",
     "sections": [
       {
@@ -4924,7 +4924,7 @@ window.CARD_DATA = [
     "id": "读题卡-134",
     "group": "读题卡",
     "title": "向心力的来源｜L3融合",
-    "image": "../图片/FIG-G15.png",
+    "image": "../图片/FIG-B21.png",
     "imageAlt": "向心力的来源",
     "sections": [
       {
@@ -4961,7 +4961,7 @@ window.CARD_DATA = [
     "id": "读题卡-135",
     "group": "读题卡",
     "title": "分析物体受力个数｜L3融合",
-    "image": "../图片/FIG-G16.png",
+    "image": "../图片/FIG-B22.png",
     "imageAlt": "分析物体受力个数",
     "sections": [
       {
@@ -4998,8 +4998,8 @@ window.CARD_DATA = [
     "id": "读题卡-136",
     "group": "读题卡",
     "title": "惯性｜L3融合",
-    "image": "../图片/FIG-G17.png",
-    "imageAlt": "惯性",
+    "image": null,
+    "imageAlt": "惯性｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -5146,8 +5146,8 @@ window.CARD_DATA = [
     "id": "读题卡-140",
     "group": "读题卡",
     "title": "同步卫星的特点｜L3融合",
-    "image": "../图片/FIG-C07.png",
-    "imageAlt": "同步卫星的特点",
+    "image": null,
+    "imageAlt": "同步卫星的特点｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -5183,8 +5183,8 @@ window.CARD_DATA = [
     "id": "读题卡-141",
     "group": "读题卡",
     "title": "动能｜L3融合",
-    "image": "../图片/FIG-C07.png",
-    "imageAlt": "动能",
+    "image": null,
+    "imageAlt": "动能｜L3融合",
     "sections": [
       {
         "label": "原题",
@@ -5220,7 +5220,7 @@ window.CARD_DATA = [
     "id": "读题卡-142",
     "group": "读题卡",
     "title": "电容器的充放电与储能｜L3融合",
-    "image": "../图片/FIG-C07.png",
+    "image": "../图片/FIG-C05.png",
     "imageAlt": "电容器的充放电与储能",
     "sections": [
       {
@@ -5257,7 +5257,7 @@ window.CARD_DATA = [
     "id": "读题卡-143",
     "group": "读题卡",
     "title": "带电物体（计重力）在电场中的平衡问题｜L3融合",
-    "image": "../图片/FIG-G15.png",
+    "image": "../图片/FIG-G13.png",
     "imageAlt": "带电物体（计重力）在电场中的平衡问题",
     "sections": [
       {
@@ -5294,7 +5294,7 @@ window.CARD_DATA = [
     "id": "读题卡-144",
     "group": "读题卡",
     "title": "带电物体（计重力）在匀强电场中的直线｜L3融合",
-    "image": "../图片/FIG-G16.png",
+    "image": "../图片/FIG-G14.png",
     "imageAlt": "带电物体（计重力）在匀强电场中的直线",
     "sections": [
       {
@@ -5331,7 +5331,7 @@ window.CARD_DATA = [
     "id": "读题卡-145",
     "group": "读题卡",
     "title": "利用局部→整体→局部的方法分析动态电｜L3融合",
-    "image": "../图片/FIG-C07.png",
+    "image": "../图片/FIG-C06.png",
     "imageAlt": "利用局部→整体→局部的方法分析动态电",
     "sections": [
       {
@@ -5516,7 +5516,7 @@ window.CARD_DATA = [
     "id": "读题卡-150",
     "group": "读题卡",
     "title": "计算磁通量的变化量｜实验操作",
-    "image": "../图片/FIG-H17.png",
+    "image": "../图片/FIG-G18.png",
     "imageAlt": "计算磁通量的变化量",
     "sections": [
       {
@@ -5553,7 +5553,7 @@ window.CARD_DATA = [
     "id": "读题卡-151",
     "group": "读题卡",
     "title": "探究感应电流产生的条件｜实验操作",
-    "image": "../图片/FIG-F01.png",
+    "image": "../图片/FIG-C08.png",
     "imageAlt": "探究感应电流产生的条件",
     "sections": [
       {
@@ -5590,7 +5590,7 @@ window.CARD_DATA = [
     "id": "读题卡-152",
     "group": "读题卡",
     "title": "探究感应电流产生的条件｜实验操作",
-    "image": "../图片/FIG-F02.png",
+    "image": "../图片/FIG-G19.png",
     "imageAlt": "探究感应电流产生的条件",
     "sections": [
       {
