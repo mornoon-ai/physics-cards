@@ -1,10 +1,10 @@
-const CACHE = "physics-cards-v1";
+const CACHE = "physics-cards-v2-20260605212649";
 const ASSETS = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
-  "./data.js",
+  "./data.js?v=20260605212649",
   "./manifest.webmanifest",
   "./icon.svg",
 ];
