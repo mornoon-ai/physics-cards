@@ -112,6 +112,15 @@ input {
   padding-bottom: 24px;
 }
 
+.queue-note {
+  color: var(--muted);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px 12px;
+  font-size: 14px;
+}
+
 .card {
   background: var(--card);
   border: 1px solid var(--line);

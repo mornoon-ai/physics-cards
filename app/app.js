@@ -69,9 +69,14 @@
 
   function isDue(card) {
     const s = store[card.id];
-    if (!s || s.retired) return false;
+    if (!s) return true;
+    if (s.retired) return false;
     if (!s.nextDue) return true;
-    return new Date(s.nextDue).getTime() <= nowStart().getTime();
+    return new Date(s.nextDue).getTime() <= Date.now();
+  }
+
+  function isInLearningQueue(card) {
+    return isDue(card);
   }
 
   function visibleCards() {
@@ -84,7 +89,7 @@
       } else if (card.group !== activeGroup) {
         return false;
       }
-      if (filter === "active" && s.retired) return false;
+      if (filter === "active" && !isInLearningQueue(card)) return false;
       if (filter === "due" && !isDue(card)) return false;
       if (filter === "retired" && !s.retired) return false;
       if (!query) return true;
@@ -98,7 +103,9 @@
   function updateSummary() {
     const done = Object.values(store).filter((x) => x.retired).length;
     const due = cards.filter(isDue).length;
-    els.summary.textContent = `${cards.length}张卡｜今日唤醒${due}张｜已退出${done}张`;
+    const groupDue = cards.filter((card) => card.group === activeGroup && isDue(card)).length;
+    const currentDue = activeGroup === "今日唤醒" ? due : groupDue;
+    els.summary.textContent = `${cards.length}张卡｜待学习${due}张｜本组${currentDue}张｜已退出${done}张`;
   }
 
   function mark(card, value) {
@@ -120,6 +127,7 @@
     };
     saveStore();
     render();
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   function renderCard(card) {
@@ -161,7 +169,16 @@
   function render() {
     updateSummary();
     const list = visibleCards();
-    els.list.innerHTML = list.length ? list.map(renderCard).join("") : `<div class="empty">这一组暂时没有要看的卡。</div>`;
+    const queueMode = els.filter.value === "active" || activeGroup === "今日唤醒";
+    const hasQuery = Boolean(els.search.value.trim());
+    const rendered = queueMode && !hasQuery ? list.slice(0, 1) : list;
+    const queueNote =
+      queueMode && list.length && !hasQuery
+        ? `<div class="queue-note">当前队列剩余 ${list.length} 张。选 A/B/C 后自动进入下一张。</div>`
+        : "";
+    els.list.innerHTML = rendered.length
+      ? queueNote + rendered.map(renderCard).join("")
+      : `<div class="empty">这一组暂时没有要看的卡。</div>`;
   }
 
   els.tabs.forEach((tab) => {
