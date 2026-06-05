@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#111111" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="物理卡片" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <title>高中物理合格考卡片</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <div>
+          <h1>高中物理合格考卡片</h1>
+          <p id="summary">加载中...</p>
+        </div>
+        <button id="resetBtn" class="ghost" type="button">重置</button>
+      </header>
+
+      <nav class="tabs" aria-label="卡片组">
+        <button class="tab active" data-group="读题卡" type="button">读题卡</button>
+        <button class="tab" data-group="知识唤醒卡" type="button">唤醒卡</button>
+        <button class="tab" data-group="知识关联卡" type="button">关联卡</button>
+        <button class="tab" data-group="今日唤醒" type="button">今日</button>
+      </nav>
+
+      <main>
+        <section class="toolbar">
+          <input id="search" type="search" placeholder="搜索卡片、知识点、题眼" />
+          <select id="filter">
+            <option value="active">学习中</option>
+            <option value="all">全部</option>
+            <option value="due">到期</option>
+            <option value="retired">已退出</option>
+          </select>
+        </section>
+
+        <section id="cardList" class="card-list" aria-live="polite"></section>
+      </main>
+    </div>
+
+    <script src="./data.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
