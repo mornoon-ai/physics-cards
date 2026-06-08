@@ -1,12 +1,13 @@
-const CACHE = "physics-cards-v3-20260605221017";
+const CACHE = "physics-cards-v3-2026060801";
 const ASSETS = [
   "./",
   "./index.html",
-  "./styles.css?v=20260605221017",
-  "./app.js?v=20260605221017",
-  "./data.js?v=20260605221017",
+  "./styles.css?v=2026060801",
+  "./app.js?v=2026060801",
+  "./data.js?v=2026060801",
   "./manifest.webmanifest",
   "./icon.svg",
+  "./icon-newton-2026060801.svg",
 ];
 
 self.addEventListener("install", (event) => {
